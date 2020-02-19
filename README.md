@@ -1,3 +1,7 @@
+## my portfolio in 2020
+This project is made in this page https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/ 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
